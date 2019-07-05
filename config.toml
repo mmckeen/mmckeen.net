@@ -23,7 +23,7 @@ canonifyurls = true
 [author]
   name = "Matthew McKeen"
   bio = "Software and Systems Engineer"
-  # job = ""
+  job = "Slack"
   location = "San Francisco"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "matthew@mmckeen.net"
